@@ -7,3 +7,9 @@ python manage.py startapp <--feature-->
 
 # to add django to current folder
 django-admin startproject <--name--> .
+
+# to create super user after migration
+python manage.py createsuperuser
+
+# to run server
+python manage.py runserverc

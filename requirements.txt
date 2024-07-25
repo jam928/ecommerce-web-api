@@ -1,0 +1,10 @@
+Django
+asgiref
+django-cors-headers
+djangorestframework
+pillow
+pip
+setuptools
+sqlparse
+typing-extensions
+wheel
