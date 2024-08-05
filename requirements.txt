@@ -8,3 +8,4 @@ setuptools
 sqlparse
 typing-extensions
 wheel
+djangorestframework-simplejwt
